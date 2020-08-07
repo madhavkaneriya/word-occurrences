@@ -1,0 +1,27 @@
+{
+  "name": "word-occurrences",
+  "version": "1.0.0",
+  "description": "finds out each word's occurrences in a document",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhavkaneriya/word-occurrences.git"
+  },
+  "keywords": [
+    "occurrence"
+  ],
+  "author": "Madhav Kaneriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhavkaneriya/word-occurrences/issues"
+  },
+  "homepage": "https://github.com/madhavkaneriya/word-occurrences#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "event-stream": "^4.0.1"
+  }
+}
