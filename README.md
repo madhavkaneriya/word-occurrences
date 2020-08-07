@@ -1,5 +1,5 @@
 # word-occurrences
-It finds out occurrences of each word in a document and returns the 10 words with highest occurrences.
+It finds out occurrences of each word in a document and returns the 10 words with highest occurrences along with their dictionary details.
 
 ## Prerequisite
 Please make sure that latest/stable version of node.js is installed.
